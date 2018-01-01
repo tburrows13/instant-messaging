@@ -1,0 +1,9 @@
+{
+   "server": [
+      "password",
+      [
+         "server",
+         "message"
+      ]
+   ]
+}
